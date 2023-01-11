@@ -1,5 +1,3 @@
-![](/src/assets/imgs/logo.png)
-
 # React Native Blueprint
 
 ## Purpose
